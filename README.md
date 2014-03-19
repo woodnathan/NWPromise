@@ -16,3 +16,4 @@ p.done(^(NSString *result) {
 ### Todo
 - Documentation
 - Review Threading
+- NSOperation only supports resolution at the moment
